@@ -15,7 +15,7 @@ html {
     -o-background-size: cover;
     background-size: cover; */
   background: orange;
-  font-family: 'Creepster', cursive;
+  font-family: 'Creepster', sans-serif;
 }
 
 * {
@@ -93,7 +93,7 @@ body {
   /* background-color: #cbcccb; */
   display: flex;
   justify-content: center;
-  margin-top: 30px;
+  margin-top: 31px;
   flex-direction: row;
 }
 .soc li {
@@ -503,7 +503,7 @@ section#trick-or-treat div .dftreat {
 
 .footer-heart {
   position: relative;
-  background-color: orange;
+  background-color: darkorange;
   height: 1rem;
   width: 1rem;
   position: relative;
